@@ -1,0 +1,13 @@
+C:\Users\Josh\source\repos\inClass9\inClass9\bin\Debug\netcoreapp3.1\inClass9.exe
+C:\Users\Josh\source\repos\inClass9\inClass9\bin\Debug\netcoreapp3.1\inClass9.deps.json
+C:\Users\Josh\source\repos\inClass9\inClass9\bin\Debug\netcoreapp3.1\inClass9.runtimeconfig.json
+C:\Users\Josh\source\repos\inClass9\inClass9\bin\Debug\netcoreapp3.1\inClass9.runtimeconfig.dev.json
+C:\Users\Josh\source\repos\inClass9\inClass9\bin\Debug\netcoreapp3.1\inClass9.dll
+C:\Users\Josh\source\repos\inClass9\inClass9\bin\Debug\netcoreapp3.1\inClass9.pdb
+C:\Users\Josh\source\repos\inClass9\inClass9\obj\Debug\netcoreapp3.1\inClass9.csprojAssemblyReference.cache
+C:\Users\Josh\source\repos\inClass9\inClass9\obj\Debug\netcoreapp3.1\inClass9.AssemblyInfoInputs.cache
+C:\Users\Josh\source\repos\inClass9\inClass9\obj\Debug\netcoreapp3.1\inClass9.AssemblyInfo.cs
+C:\Users\Josh\source\repos\inClass9\inClass9\obj\Debug\netcoreapp3.1\inClass9.csproj.CoreCompileInputs.cache
+C:\Users\Josh\source\repos\inClass9\inClass9\obj\Debug\netcoreapp3.1\inClass9.dll
+C:\Users\Josh\source\repos\inClass9\inClass9\obj\Debug\netcoreapp3.1\inClass9.pdb
+C:\Users\Josh\source\repos\inClass9\inClass9\obj\Debug\netcoreapp3.1\inClass9.genruntimeconfig.cache
